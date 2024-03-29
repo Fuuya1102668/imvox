@@ -1,0 +1,17 @@
+　Appleのプロ向けデスクトップPC「<A HREF="https://www.itmedia.co.jp/pcuser/articles/2306/06/news091.html" target="_blank">Mac Studio</A>」に、2世代目の新製品が登場した。最新モデルは搭載プロセッサがApple Siliconの<A HREF="https://www.itmedia.co.jp/pcuser/articles/2306/06/news089.html" target="_blank">M2 Max／M2 Ultra</A>から選べる。ある意味、順当な進化だ。しかし、今回は外的な要因によって製品の位置付けが少し変わった。
+　これまではMac Studioはある意味、Apple Silicon時代のMacの最上位モデルという位置付けだった。しかし、今回の「WWDC23」ではMac全ラインアップの中で、唯一のIntelプロセッサ搭載モデルしかなかった「<A HREF="https://www.itmedia.co.jp/pcuser/articles/2306/06/news079.html" target="_blank">Mac Pro</A>」に、ついにApple Silicon採用モデルが登場した。Appleが<A HREF="https://www.itmedia.co.jp/pcuser/articles/2006/23/news056.html" target="_blank">2020年に2年間で移行すると宣言</A>していたApple Siliconへの移行が、コロナ禍を経て予定より1年遅れ、3年間をかけてついに<A HREF="https://www.itmedia.co.jp/pcuser/articles/2306/06/news089.html" target="_blank">完了した形</A>だ。
+　標準でM2 Ultraプロセッサを装備し、基本構成で104万8800円（税込み、以下同様）からとなるMac Proが、名実ともにMacの最高峰モデルに返り咲いた。
+　Apple Silicon版Mac Proの特徴は、オーディオとビデオの入出力、ネットワーク接続、ストレージカードといった拡張カードを装着できる7基の拡張スロットを装備していることにある。そして床下にも卓上にも置きやすいタワー型ボディーと、専用のラックに搭載できるラックマウント型のボディーを選べることだ。
+　では、Apple Siliconを採用した最上位モデルだったMac Studioは、どのような立ち位置になったのだろうか。
+　筆者はMac Proの登場で、むしろMac Studioの魅力が増したのではないかと思っている。なぜなら、Mac Studioでも望めばM2 Ultraのプロセッサに、192GBのユニファイドメモリ、最大8TBのSSDストレージなど、Mac Proと全く同じ構成を選べ、それでいて半分近い価格（M2 Ultra搭載の標準構成で59万8800円）で購入できるからだ。
+　参考までに、Mac Proの104万8800円の基本構成と同じMac Studioの価格を見ると59万9800円になる。Mac Proの基本構成には、最低限の操作に必要と半ば強制的にMagic Mouse（1万3800円）と、Touch ID搭載Magic Keyboard（2万5800円）が付属しているが、その価格分となる3万9600円を加えてもMac Studioでは63万8400円で、Mac Proの6割程度の価格で済む。
+　あの大きなアルミ削り出しボディーと拡張スロットのための価格差は標準構成だと41万円以上で、この価格差だけでM2 MaxモデルのMac Studio（29万8800円）がもう1台買えてしまう。
+　プロといわれる人々でも、世の中のほとんどの人は拡張ボードが不要でThunderbolt 4／USB4経由で機器を接続できれば事足りることを考えると、Mac ProユーザーとMac Studioユーザーの区分けは明確だ。Mac Studioはほとんどのプロフェッショナルユーザーのニーズを満たす製品であり、Mac Proは一部の本当に特殊なニーズがあるプロユーザーのための専用機、という区分けだ。
+　そんなある意味、プロ用スタンダードモデルのMac Studioが、M2 Max搭載の基本構成モデルで29万9800円から購入できる手頃さも大きな魅力だろう。
+　参考までに、この最もスペックの低いMac StudioをMac miniの最上位モデルと比較してみよう。Mac miniは、プロセッサとしては1つ格が落ちるM2 Proまでしか選べない。GPUコア数もMac Studioの基本構成の約半分（16コア）となる。メモリは16GBが標準で、最大でも32GBまでとなり、これはMac Studioの搭載メモリの最低ラインだ。
+　Mac miniの構成をカスタマイズして32GBのメモリを選び、プロセッサもGPUコアが19コアの最高スペックを選択してみると28万2800円となる。Mac Studioの最小構成とほぼ同価格だ。しかし、この状態でMac Studioには背面の端子構成は同じでも、それに加えて前面に2基のUSB Type-CポートとSDXCメモリー対応のカードスロットが付いており、外部ディスプレイもM2 Proの最大3台に対し、M2 Maxなら最大5台、M2 Ultraなら最大8台と差がある。
+　しかも、マシンの限界性能を引き出して本体が熱を帯びた際もより大型のヒートシンクと冷却ファンを備えるMac Studioの方が、より大きな負荷に耐えられる仕様になっている。
+　コンシューマー向けのMac miniと、プロ向けのMac Studioとの区分けも明快で、Mac miniは4Kビデオ編集などプロレベルに近い作業もできてしまう魅力的なモデルではあるが、妥協しないパフォーマンスで意のままに製作を行いたいプロフェッショナルには、Mac Studioがほぼ一択の選択肢となる。
+　中には、2022年に発表されたM1 Max／M1 Ultra搭載のMac Studioとの差が気になる人もいるだろう。従来モデルとの比較ではコア性能が向上し、ProRes映像のエンコード／デコードにプロセッサレベルで対応した、M2世代のプロセッサを備えることでビデオ処理性能が向上している点からも、高画質なビデオ編集を扱う人にはそれだけで新モデルを勧めたい。
+　それらに加えて最大搭載メモリが192GBに増えたこと、無線LAN規格が最新のWi-Fi 6Eとなったこと、Bluetoothが5.3と最新なこと、HDMI出力で最大8K解像度（60Hz）の出力、可変リフレッシュレート（VRR）やHDR、マルチチャンネルオーディオに対応したこと、さらにはM2 Ultraモデル限定だが、最大8台の外部ディスプレイに対応可能になったこと（従来は5台）などの違いが挙げられる。こうした機能へのニーズがある初代Mac Studioユーザーも含め、2世代目のMac Studioは全てのプロユーザーにとって理想的なマシンに仕上がっている。
+Copyright &copy; ITmedia, Inc. All Rights Reserved.

@@ -1,0 +1,11 @@
+　米Metaは9月29日（現地時間）、動画生成AI「Make-A-Video」を発表した。このところ注目を集めている「Stable Diffusion」や「Midjourney」、「DALL・E 2」などの画像生成AIの動画版というところだ。
+　画像生成AIと同様に、短い文章を入力すると、その内容を表す短い動画が生成される。Metaが<A HREF="https://makeavideo.studio/?fbclid=IwAR13wUU76HZ5UhvIDazlquUk9TKgo_k7houSrJlI_MMxpmPp8CgZTNbmsZ0" target="_blank">公開</A>した幾つかの動画は短いもので、細部がぼやけ、明らかに不自然ではあるが、可能性が感じられる。
+　ツイートで紹介された4つの動画はそれぞれ、「A dog wearing a Superhero outfit with red cape flying through the sky（赤いマントとスーパーヒーロの衣装を身に付けて空を飛ぶ犬）」「Hyper-realistic spaceship landing on mars（火星に着陸する超リアルな宇宙船）」「A teddy bear painting a portrait（肖像画を描くテディベア」「Unicorns running along a beach, highly detailed（浜辺を走るユニコーン、詳細に）」というテキストから生成したものという。
+　マーク・ザッカーバーグCEOは<A HREF="https://www.facebook.com/zuck/posts/pfbid034VpnYZfEd7GiwPfEpJsNhg3vFVbo7EQd8Yk4CXU4YaRSfRsibobdyFWRpKt7Dcael" target="_blank">自身のFacebook投稿</A>で、動画生成はピクセルが時間の経過でどう変化するかを予測する必要があるため、画像生成より困難だが、Make-A-Videoは教師なし学習のレイヤーを追加することで、これを解決したと説明した。
+　<A HREF="https://makeavideo.studio/Make-A-Video.pdf" target="_blank">論文</A>（リンク先はPDF）によると、このAIモデルのトレーニングに使っているのは「WebVid-10M」と「HD-VILA-100M」という2つのデータセットの数十万時間分の映像という。そこにはWebからスクレイピングされたストック動画も含まれる。
+　Make-A-Videoは現在、64×64ピクセルの16フレームの動画を出力する。公開されている作品は、それを別のAIモデルで768×768ピクセルに拡大したものだ。
+　同社は今のところこのAIモデルを公開していない。
+　「このジェネレーティブAIの研究と結果をコミュニティとオープンに共有してフィードバックを求めている。責任あるAIフレームワークを使い、この新技術へのアプローチを改良、進化させていく」としている。
+　動画生成AIは、中国の清華大学の研究チームが6月に先行して<A HREF="https://www.itmedia.co.jp/news/articles/2206/06/news039.html" target="_blank">発表</A>している。
+Copyright &copy; ITmedia, Inc. All Rights Reserved.
+続きを読むには、コメントの利用規約に同意し「アイティメディアID」および「ITmedia NEWS アンカーデスクマガジン」の登録が必要です
